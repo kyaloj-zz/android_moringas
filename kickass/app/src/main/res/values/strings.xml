@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kickass</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="word">no need to fix</string>
+    <string name="action_settings">Settings</string>
+</resources>
