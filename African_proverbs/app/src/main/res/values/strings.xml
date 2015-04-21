@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">African_proverbs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quote1">Quote1</string>
+    <string name="title_activity_quote4">quote4</string>
+    <string name="title_activity_quote5">quote5</string>
+    <string name="title_activity_quote6">quote6</string>
+    <string name="title_activity_quote7">quote7</string>
+    <string name="title_activity_quote8">quote8</string>
+</resources>
